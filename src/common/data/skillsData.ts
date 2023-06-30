@@ -34,7 +34,7 @@ export const skillList: SkillsDataType[] = [
   },
   {
     icon: PhpIcon,
-    skillTitle: "PHP",
+    skillTitle: "React JS",
   },
   {
     icon: MySQLIcon,

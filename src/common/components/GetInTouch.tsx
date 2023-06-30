@@ -29,7 +29,7 @@ const GetInTouch = () => {
             say hi, I’ll try my best to get back to you!
           </p>
           <div className="flex justify-center items-center">
-            <Button title="Say Hello" path="mailto:imdeepsv@gmail.com"/>
+            <Button title="Say Hello" path="mailto: shivmishra3375@gmail.com" />
           </div>
         </motion.div>
       </AnimatePresence>

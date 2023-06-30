@@ -13,11 +13,11 @@ import TsParticals from "src/common/layouts/TsParticles";
 import Header from "@/components/Header";
 import { Analytics } from "@vercel/analytics/react";
 
-const seoTitle = "Deepak Vishwakarma | Software Engineer";
+const seoTitle = "Shivansh Mishra | Software Engineer";
 const seoDescription =
-  "Deepak Vishwakarma, Web Developer, imdeepss, deepak vishwakarma, fullstack developer,software engineer";
+  "Shivansh Mishra, Web Developer, imdeepss, shivansh mishra, fullstack developer,software engineer";
 const seoKeywords =
-  "imdeepss, deepak vishwakarma, Deepak Vishwakarma, web developer, software engineer, full stack developer, software engineer";
+  "imdeepss,shivansh mishra , Shivansh Mishra, web developer, software engineer, full stack developer, software engineer";
 
 const Home: NextPage = () => {
   return (

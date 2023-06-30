@@ -22,7 +22,7 @@ const Banner = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-5xl md:text-7xl font-bold text-lightest-slate mb-6 md:mb-8 font-apple">
-            Deepak Vishwakarma.
+            Shivash Mishra.
           </h2>
         </AnimationDiv>
         <AnimationDiv
@@ -47,7 +47,14 @@ const Banner = () => {
               design patterns, and thoughtful interactions.
             </p>
           </div>
-          <a  href="/DeepakResume.pdf" className="inline-flex justify-center items-center text-green bg-transparent border border-green rounded my-3 py-3 px-6 hover:bg-green-tint hover:outline-none font-mango" download target="_self">Download Me</a>
+          <a
+            href="/Shivansh Resume.pdf"
+            className="inline-flex justify-center items-center text-green bg-transparent border border-green rounded my-3 py-3 px-6 hover:bg-green-tint hover:outline-none font-mango"
+            download
+            target="_self"
+          >
+            Download Me
+          </a>
         </AnimationDiv>
       </Section>
     </AnimatePresence>

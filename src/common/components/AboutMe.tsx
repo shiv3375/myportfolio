@@ -26,7 +26,7 @@ const AboutMe = () => {
             About Me
           </h2>
           <p className="text-lg text-slate mb-6 font-mango">
-            Hello! My name is Deepak and I enjoy creating things that live on
+            Hello! My name is Shivansh and I enjoy creating things that live on
             the internet. My interest in web development started back in 2018
             when I decided to try editing custom themes — turns out hacking
             together a custom re blog button taught me a lot about HTML & CSS!
@@ -56,7 +56,7 @@ const AboutMe = () => {
           key="2"
         >
           <div className="md:mt-20">
-            <div className="w-[300px] h-[300px] mx-auto bg-[url('../../../public/assets/images/avatar.jpg')] bg-cover bg-no-repeat bg-top-center outline-none rounded-md relative z-30  before:absolute before:top-0 before:left-0 before:w-full before:h-full before:bg-green before:overflow-hidden before:rounded-md before:opacity-50 before:z-50 before:hover:bg-transparent after:absolute after:w-full after:h-full after:top-5 after:left-5 after:border-2 after:border-green after:rounded-md after:-z-50 after:hover:transition after:hover:duration-300 after:hover:ease-in-out after:hover:top-0 after:hover:left-0"></div>
+            <div className="w-[400px] h-[400px] mx-auto bg-[url('../../../public/assets/images/shiv.jpeg')] bg-cover bg-no-repeat bg-top-center outline-none rounded-md relative z-30  before:absolute before:top-0 before:left-0 before:w-full before:h-full before:bg-green before:overflow-hidden before:rounded-md before:opacity-50 before:z-50 before:hover:bg-transparent after:absolute after:w-full after:h-full after:top-5 after:left-5 after:border-2 after:border-green after:rounded-md after:-z-50 after:hover:transition after:hover:duration-300 after:hover:ease-in-out after:hover:top-0 after:hover:left-0"></div>
           </div>
         </motion.div>
       </AnimatePresence>

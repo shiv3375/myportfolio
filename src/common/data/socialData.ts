@@ -13,7 +13,7 @@ type SocialDataType = {
 export const socialData: SocialDataType[] = [
   {
     icon: GithubIcon,
-    path: "https://gitlab.com/imdeepss",
+    path: "",
   },
   {
     icon: WhatsappIcon,
@@ -29,6 +29,6 @@ export const socialData: SocialDataType[] = [
   },
   {
     icon: LinkedInIcon,
-    path: "https://www.linkedin.com/in/deepak-vishwakarma-126724154/",
+    path: "https://www.linkedin.com/in/shivansh-mishra-35b237201/",
   },
 ];
