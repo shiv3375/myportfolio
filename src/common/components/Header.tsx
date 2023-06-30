@@ -22,7 +22,7 @@ const Header = () => {
           viewport={{ once: true }}
         >
           <Link href="/">
-            <Image src={FavIcon} alt="imdeepss" width={50} height={50} />
+            <Image src={FavIcon} alt="" width={50} height={50} />
           </Link>
         </motion.div>
         <ul className="flex justify-between items-center relative space-x-4 text-light-slate">
